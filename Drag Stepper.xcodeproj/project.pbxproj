@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2CFD21F72B52FD6E00F48A93 /* cool counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cool counter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CFD21F72B52FD6E00F48A93 /* Drag Stepper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drag Stepper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CFD21FA2B52FD6E00F48A93 /* cool_counterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cool_counterApp.swift; sourceTree = "<group>"; };
 		2CFD21FC2B52FD6E00F48A93 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CFD21FE2B52FD7000F48A93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		2CFD21F82B52FD6E00F48A93 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2CFD21F72B52FD6E00F48A93 /* cool counter.app */,
+				2CFD21F72B52FD6E00F48A93 /* Drag Stepper.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2CFD21F62B52FD6E00F48A93 /* cool counter */ = {
+		2CFD21F62B52FD6E00F48A93 /* Drag Stepper */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CFD22052B52FD7000F48A93 /* Build configuration list for PBXNativeTarget "cool counter" */;
+			buildConfigurationList = 2CFD22052B52FD7000F48A93 /* Build configuration list for PBXNativeTarget "Drag Stepper" */;
 			buildPhases = (
 				2CFD21F32B52FD6E00F48A93 /* Sources */,
 				2CFD21F42B52FD6E00F48A93 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "cool counter";
+			name = "Drag Stepper";
 			productName = "cool counter";
-			productReference = 2CFD21F72B52FD6E00F48A93 /* cool counter.app */;
+			productReference = 2CFD21F72B52FD6E00F48A93 /* Drag Stepper.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2CFD21F22B52FD6E00F48A93 /* Build configuration list for PBXProject "cool counter" */;
+			buildConfigurationList = 2CFD21F22B52FD6E00F48A93 /* Build configuration list for PBXProject "Drag Stepper" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2CFD21F62B52FD6E00F48A93 /* cool counter */,
+				2CFD21F62B52FD6E00F48A93 /* Drag Stepper */,
 			);
 		};
 /* End PBXProject section */
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2CFD21F22B52FD6E00F48A93 /* Build configuration list for PBXProject "cool counter" */ = {
+		2CFD21F22B52FD6E00F48A93 /* Build configuration list for PBXProject "Drag Stepper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2CFD22032B52FD7000F48A93 /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CFD22052B52FD7000F48A93 /* Build configuration list for PBXNativeTarget "cool counter" */ = {
+		2CFD22052B52FD7000F48A93 /* Build configuration list for PBXNativeTarget "Drag Stepper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2CFD22062B52FD7000F48A93 /* Debug */,
